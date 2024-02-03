@@ -1,2 +1,2 @@
-# BabylonStarter
-Starter template for using Babylon and Vite
+# MapGenerator
+This project procedurally generates a map with features
